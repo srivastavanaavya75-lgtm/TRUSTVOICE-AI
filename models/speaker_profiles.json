@@ -1,0 +1,72 @@
+{
+  "4cf0099a-7868-403c-9599-edfc5a6d8f6d": {
+    "id": "4cf0099a-7868-403c-9599-edfc5a6d8f6d",
+    "name": "Shashwat",
+    "role": "Niranjan",
+    "samples": [
+      {
+        "index": 1,
+        "filename": "test1.mp3",
+        "duration": 49.94,
+        "quality": "GOOD",
+        "issues": []
+      },
+      {
+        "index": 2,
+        "filename": "WhatsApp Audio 2026-09-18 at 10.21.14.mp4",
+        "duration": 27.95,
+        "quality": "GOOD",
+        "issues": []
+      },
+      {
+        "index": 3,
+        "filename": "WhatsApp Audio 2026-09-20 at 11.16.10.mpeg",
+        "duration": 49.94,
+        "quality": "GOOD",
+        "issues": []
+      }
+    ],
+    "embedding": [
+      1.41930734179914,
+      -1.8958369468649228
+    ],
+    "enrolled": true,
+    "created_at": 1790112062.4183621,
+    "enrolled_at": 1790112125.95021
+  },
+  "d76ed064-a68e-4add-adee-d7e5f0d92818": {
+    "id": "d76ed064-a68e-4add-adee-d7e5f0d92818",
+    "name": "adarsh",
+    "role": "student",
+    "samples": [
+      {
+        "index": 1,
+        "filename": "test1.mp3",
+        "duration": 49.94,
+        "quality": "GOOD",
+        "issues": []
+      },
+      {
+        "index": 2,
+        "filename": "WhatsApp Audio 2026-09-18 at 10.21.14.mp4",
+        "duration": 27.95,
+        "quality": "GOOD",
+        "issues": []
+      },
+      {
+        "index": 3,
+        "filename": "test1.mp3",
+        "duration": 49.94,
+        "quality": "GOOD",
+        "issues": []
+      }
+    ],
+    "embedding": [
+      1.41930734179914,
+      -1.8958369468649228
+    ],
+    "enrolled": true,
+    "created_at": 1790144105.69258,
+    "enrolled_at": 1790144145.7863464
+  }
+}

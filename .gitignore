@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 venv/
 .env
+.pytest_cache/
+*.onnx.part
+.streamlit/
